@@ -13,7 +13,7 @@
 \/____________/\/_________/ \/____________/\/_________/ \/____________/\/____________/  
 
 
-A simple loader for Coco Hub, made by N4ri.
+A simple loader for Coco Hub, made by N4ri. yesss
 
 
 ]]--
