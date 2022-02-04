@@ -30,6 +30,9 @@ local window = lib:CreateWindow()
 
 -- Game Scripts --
 
+window:CreateButtonF1("XXWieen Script", function()
+
+
 window:CreateButtonF1("Arsenal (Dark Hub)", function()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
 end)
